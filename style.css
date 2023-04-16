@@ -43,3 +43,7 @@ header{
 body{
     background-color: #FFEBEB;
 }
+
+.texto-paragrafo1{
+    justify-content:center;
+}
