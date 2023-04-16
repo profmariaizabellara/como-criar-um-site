@@ -3,7 +3,8 @@ header{
     align-items: center;
     margin: 0px;
     padding: 0px;
-    background-color: #FF9E9E
+    background-color: #FF9E9E;
+    display: flex;
 }
 
 .imagem-cabeçalho-1{
