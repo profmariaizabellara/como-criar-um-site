@@ -8,18 +8,27 @@ header{
 }
 
 .imagem-cabeçalho-1{
-    height: 200px;
+    height: 170px;
+    left: 0px;
+    position: absolute;
+    width: 300px;
+    top: 17px;
 }
 
 .imagem-cabeçalho-2{
-    height: 200px;
+    height: 170px;
    justify-content: space-around;
    left: 1140px;
+   position: absolute;
+    width: 300px;
+    top: 17px;
 }
 
 .titulo-cabeçalho{
     font-size: 48px;
     font-family: 'Bree Serif';
+    text-align: center;
+    display: flex;
     color:#FF0101   ;
     justify-content: center;
     position: absolute;
