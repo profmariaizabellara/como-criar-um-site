@@ -6,6 +6,12 @@ header{
     height: 250px;
 }
 
-.imagem-cabeçalho{
+.imagem-cabeçalho-1{
     height: 200px;
+    display: ;
+}
+
+.imagem-cabeçalho-2{
+    height: 200px;
+    left: 1140px;
 }
