@@ -14,3 +14,7 @@ header{
     height: 200px;
    justify-content: space-around;
 }
+
+.titulo-cabeçalho{
+    justify-content: center;
+}
