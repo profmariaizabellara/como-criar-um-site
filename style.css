@@ -5,12 +5,12 @@ header{
 .cabeçalho{
     height: 250px;
     align-items: center;
-    margin: 0px;
+    padding: 0px;
 }
 
 .imagem-cabeçalho-1{
     height: 170px;
-    left: -50px;
+    left: -70px;
     position: absolute;
     width: 300px;
     top: 17px;
@@ -28,6 +28,9 @@ header{
 .titulo-cabeçalho{
     font-size: 48px;
     font-family: 'Bree Serif';
+    font-style: normal;
+    line-height: 65px;
+    font-weight: 400;
     text-align: center;
     display: flex;
     color:#FF0101   ;
