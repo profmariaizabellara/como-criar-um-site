@@ -4,6 +4,7 @@ header{
 
 .cabeçalho{
     height: 250px;
+    align-items: center;
 }
 
 .imagem-cabeçalho-1{
@@ -16,5 +17,8 @@ header{
 }
 
 .titulo-cabeçalho{
+    font-size: 48px;
+    font-family: 'Bree Serif';
+    color:#FF0101   ;
     justify-content: center;
 }
