@@ -1,11 +1,8 @@
 header{
-    background-color: #FF9E9E
-}
-
-.cabeçalho{
     height: 250px;
     align-items: center;
     padding: 0px;
+    background-color: #FF9E9E
 }
 
 .imagem-cabeçalho-1{
