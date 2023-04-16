@@ -12,5 +12,5 @@ header{
 
 .imagem-cabeçalho-2{
     height: 200px;
-    padding-right: 1400px;
+   justify-content: space-around;
 }
