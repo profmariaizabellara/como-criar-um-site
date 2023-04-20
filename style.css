@@ -59,4 +59,5 @@ body{
     padding: 55px;
     display: flex;
     text-align: justify;
+    align-items: center;
 }
