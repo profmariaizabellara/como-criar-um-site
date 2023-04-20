@@ -50,6 +50,11 @@ body{
     background-color: #FFEBEB;
 }
 
+.titulo-corpo{
+    display: flex;
+    justify-content: center;
+}
+
 .paragrafos{
     padding: 55px;
     text-justify: distribute-all-lines;
