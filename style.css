@@ -51,6 +51,6 @@ body{
 }
 
 .paragrafos{
-    justify-content:justify;
     padding: 50px;
+    text-justify: distribute-all-lines;
 }
