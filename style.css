@@ -51,7 +51,10 @@ body{
 }
 
 .imagem-div-titulo{
-    padding: 30px;
+    width: 796px;
+    height: 65px;
+    left: 322px;
+    top: 69px;
     align-items: center;
 }
 
