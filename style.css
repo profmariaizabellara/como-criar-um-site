@@ -61,4 +61,5 @@ body{
 .paragrafos{
     padding: 55px;
     display: flex;
+    flex-direction: column;
 }
