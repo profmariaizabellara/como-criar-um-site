@@ -51,18 +51,10 @@ body{
 }
 
 .imagem-div-titulo{
-    width: 796px;
-    height: 65px;
-    left: 322px;
-    top: 69px;
     align-items: center;
 }
 
 .texto-paragrafo1{
-    width: 796px;
-    height: 65px;
-    left: 322px;
-    top: 500px;
     justify-content:justify;
     padding:20px, 20px, 20px, 20px;
 }
