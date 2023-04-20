@@ -50,10 +50,7 @@ body{
     background-color: #FFEBEB;
 }
 
-.imagem-div-titulo{
-    align-items: center;
-}
-
-.texto-paragrafo1{
+.paragrafos{
     justify-content:justify;
     padding: 50px;
+}
