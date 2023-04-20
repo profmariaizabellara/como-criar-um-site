@@ -58,5 +58,5 @@ body{
 .paragrafos{
     padding: 55px;
     display: flex;
-    text-justify: distribute-all-lines;
+    text-justify: distribute;
 }
