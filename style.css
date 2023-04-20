@@ -50,6 +50,10 @@ body{
     background-color: #FFEBEB;
 }
 
+.titulo-corpo{
+    padding: 30px;
+    justify-content: center;
+}
 .texto-paragrafo1{
     justify-content:center;
 }
