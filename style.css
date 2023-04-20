@@ -62,4 +62,5 @@ body{
     padding: 55px;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
