@@ -56,6 +56,6 @@ body{
 }
 .texto-paragrafo1{
     justify-content:justify;
-    padding:20px, 50px;
+    padding:20px, 50px, 30px, 20px;
 
 }
