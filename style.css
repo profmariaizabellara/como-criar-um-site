@@ -49,6 +49,8 @@ header{
 body{
     background-color: #FFEBEB;
     font-family: 'Ysabeau';
+    font-size: 48px;
+    font-style: normal;
 }
 
 .titulo-corpo{
