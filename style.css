@@ -64,6 +64,7 @@ corpo
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin-left: 25px;
 }
 
 .imagem-corpo{
