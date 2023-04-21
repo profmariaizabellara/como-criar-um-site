@@ -57,8 +57,9 @@ body{
     display: flex;
     justify-content: cflex-d
     flex-direction: row;
+    margin-top: 35px; 
 }
-corpo
+
 .paragrafos{
     padding: 55px;
     display: flex;
