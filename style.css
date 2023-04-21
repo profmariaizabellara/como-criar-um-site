@@ -55,7 +55,8 @@ body{
 
 .imagem-corpo-titulo{
     display: flex;
-    justify-content: center;
+    justify-content: cflex-d
+    flex-direction: row;
 }
 
 .paragrafos{
