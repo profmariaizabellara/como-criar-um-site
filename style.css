@@ -22,7 +22,7 @@ header{
 
 .imagem-cabeçalho-2{
     height: 170px;
-   justify-content:space-between;
+   justify-content: space-around;
    left: 1110px;
    position: absolute;
     width: 300px;
