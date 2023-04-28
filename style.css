@@ -12,7 +12,7 @@ header{
     display: flex;
 }
 
-.imagem-cabeçalho-1{
+.imagem-cabeçalho{
     height: 170px;
     left: -70px;
     position: absolute;
@@ -20,9 +20,9 @@ header{
     top: 17px;
 }
 
-.imagem-cabeçalho-2{
+.imagem-cabeçalho-1{
     height: 170px;
-   justify-content: space-around;
+   justify-content:space-between;
    left: 1110px;
    position: absolute;
     width: 300px;
