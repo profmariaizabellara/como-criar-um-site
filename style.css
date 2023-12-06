@@ -55,7 +55,7 @@ body{
 
 .imagem-titulo-corpo{
     display: flex;
-    justify-content: cflex-d
+    justify-content: cflex-d;
     flex-direction: row;
     margin-top: 35px; 
 }
